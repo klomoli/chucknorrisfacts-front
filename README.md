@@ -26,6 +26,11 @@ Se ha dockerizado la app de Vuejs y la parte back en Ruby on Rails con Postgresq
 
 ### FRONT VUEJS
 
+
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.12.12.png)
+
+
+
 Se ha utilizado VueJS 2 junto con Vuetify, para montar la imagen ejecutamos los siguientes comandos.
 
 ```sh
