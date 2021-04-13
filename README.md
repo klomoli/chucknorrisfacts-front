@@ -26,6 +26,7 @@ Se ha dockerizado la app de Vuejs y la parte back en Ruby on Rails con Postgresq
 
 ### FRONT VUEJS
 
+#### Imagenes: https://github.com/klomoli/chucknorrisfacts-front/tree/main/public
 
 ![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2016.50.20.png)
 ![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2017.13.31.png)
