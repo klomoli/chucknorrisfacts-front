@@ -45,7 +45,7 @@ Se ha dockerizado la app de Vuejs y la parte back en Ruby on Rails con Postgresq
 Se ha utilizado VueJS 2 junto con Vuetify, para montar la imagen ejecutamos los siguientes comandos.
 
 ```sh
-cd chucknorris
+cd chucknorrisfacts-front-main
 docker build -t my-app:dev .
 docker run -v ${PWD}:/app -v /app/node_modules -p 8081:8080 --rm my-app:dev
 ```
