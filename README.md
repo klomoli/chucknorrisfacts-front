@@ -27,7 +27,17 @@ Se ha dockerizado la app de Vuejs y la parte back en Ruby on Rails con Postgresq
 ### FRONT VUEJS
 
 
-![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.12.12.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2016.50.20.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2017.13.31.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2010.59.39.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2015.37.20.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2023.37.11.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%2020.38.17.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.12.24.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.14.35.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.14.51.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.17.48.png)
+![Imagen panel 1](https://github.com/klomoli/chucknorrisfacts-front/blob/main/public/Captura%20de%20pantalla%202021-04-13%20a%20las%202.19.27.png)
 
 
 
